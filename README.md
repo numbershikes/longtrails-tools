@@ -1,2 +1,2 @@
 # longtrails-tools
-Various tools used with the LongTrails sites.
+Various tools used with the OpenLongTrails.org projects.
